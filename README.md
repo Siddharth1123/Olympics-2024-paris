@@ -1,9 +1,6 @@
 # Olympics-2024-paris
 
 
-Resources:
-
-https://drive.google.com/drive/folders/10VqjLmXXMHGh_3-zpjp-WD8iKrSxMqqO 
 
 
 ![image](https://github.com/user-attachments/assets/24abb197-0eb4-46c2-8371-11cb8c20ae6a)
